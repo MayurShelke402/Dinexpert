@@ -1,21 +1,2 @@
-rewrite catgory fecthing api with hotel id                                              ---done            
-item edit platform - admin panel                                                        ---done                                                                  
-analysis not showing--                                                                  ---done
-Admin dashboard completed order revenue(change to 1 day)                                ---done
-search bar design and dropdown recommendations                                          ---done
-proper alignment of occuipied available and reserved in admin dashbaord                ---done
-remove complete order option from admin dashboard                                      ---done
-add api to upadte and delete in admin                                                  ---done
-add dropdown in edit                                                                  ---done
-add to cart changes in product info                                                    ---done
-fix div size for name of product                                                       ---done
-fix th UI of timer in menu card                                                        --done
-change z axis of add to cart in product info                                            --done
-change z axis of add to cart in product info                                            --done
-Add the summery section 
-add bill download 
-add tabel recipt
-complte the state of tabel 
-complete the state of order                                                                                                    
-add create catgory button
+
 
